@@ -1,0 +1,415 @@
+
+< 17-12-25 10:25:18 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 10:31:28 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 10:35:39 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 10:38:59 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 10:39:34 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 10:46:28 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 10:49:03 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 10:49:20 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 10:50:20 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 10:50:33 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 10:50:50 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 10:51:16 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 10:51:28 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 10:51:35 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 11:06:27 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 11:07:43 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 11:22:34 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 11:23:36 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 11:25:17 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 11:26:36 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 11:27:10 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 11:28:22 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 13:34:13 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 13:34:50 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&17e8c39&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: F:\work\item\7595\v011\program\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2017/12/25 PM 01:34:54:402
+   Step 2 - End Time : 2017/12/25 PM 01:34:54:409
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2017/12/25 PM 01:34:54:409
+   Step 3 - End Time : 2017/12/25 PM 01:34:54:409
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2017/12/25 PM 01:34:54:409
+   Step 4 - End Time : 2017/12/25 PM 01:34:59:05
+   Step 4 ok! Spent Time: 4.602s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: F:\work\item\7595\v011\program\Tools/gpcv1248_spifc_pack_/cb_result.bin
+   Step 5 - Start Time : 2017/12/25 PM 01:34:59:05
+   Step 5 - End Time : 2017/12/25 PM 01:35:01:923
+   Step 5 ok! Spent Time: 2.917s
+   USB Task Finished! Spent Time: 7.519s
+   Device is Pullouted.
+
+< 17-12-25 13:36:00 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 13:51:16 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 13:51:39 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&17e8c39&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: F:\work\item\7595\v011\program\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2017/12/25 PM 01:51:44:28
+   Step 2 - End Time : 2017/12/25 PM 01:51:44:35
+   Step 2 ok! Spent Time: 0.15s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2017/12/25 PM 01:51:44:35
+   Step 3 - End Time : 2017/12/25 PM 01:51:44:36
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2017/12/25 PM 01:51:44:36
+   Step 4 - End Time : 2017/12/25 PM 01:51:48:639
+   Step 4 ok! Spent Time: 4.602s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: F:\work\item\7595\v011\program\Tools/gpcv1248_spifc_pack_/cb_result.bin
+   Step 5 - Start Time : 2017/12/25 PM 01:51:48:639
+   Step 5 - End Time : 2017/12/25 PM 01:51:51:557
+   Step 5 ok! Spent Time: 2.918s
+   USB Task Finished! Spent Time: 7.535s
+   Device is Pullouted.
+
+< 17-12-25 13:52:49 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 13:55:57 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 13:59:34 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 13:59:58 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 14:00:59 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 14:01:25 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 14:02:09 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 14:02:25 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 14:04:41 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 14:05:11 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 14:05:50 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 14:06:27 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 14:07:02 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 14:07:53 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 14:12:40 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 14:37:07 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 14:39:16 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:00:36 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&17e8c39&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: F:\work\item\7595\v011\program\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2017/12/25 PM 03:00:40:595
+   Step 2 - End Time : 2017/12/25 PM 03:00:40:601
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2017/12/25 PM 03:00:40:601
+   Step 3 - End Time : 2017/12/25 PM 03:00:40:601
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2017/12/25 PM 03:00:40:601
+   Step 4 - End Time : 2017/12/25 PM 03:00:45:171
+   Step 4 ok! Spent Time: 4.571s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: F:\work\item\7595\v011\program\Tools/gpcv1248_spifc_pack_/cb_result.bin
+   Step 5 - Start Time : 2017/12/25 PM 03:00:45:171
+   Step 5 - End Time : 2017/12/25 PM 03:00:48:86
+   Step 5 ok! Spent Time: 2.917s
+   USB Task Finished! Spent Time: 7.488s
+   Device is Pullouted.
+
+< 17-12-25 15:01:38 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:02:38 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:05:31 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:06:34 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:08:04 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:10:02 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:10:36 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:13:37 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:18:46 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:18:59 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:27:23 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:30:51 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&17e8c39&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: F:\work\item\7595\v011\program\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2017/12/25 PM 03:30:54:735
+   Step 2 - End Time : 2017/12/25 PM 03:30:54:735
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2017/12/25 PM 03:30:54:735
+   Step 3 - End Time : 2017/12/25 PM 03:30:54:735
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2017/12/25 PM 03:30:54:735
+   Step 4 - End Time : 2017/12/25 PM 03:30:59:303
+   Step 4 ok! Spent Time: 4.570s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: F:\work\item\7595\v011\program\Tools/gpcv1248_spifc_pack_/cb_result.bin
+   Step 5 - Start Time : 2017/12/25 PM 03:30:59:303
+   Step 5 - End Time : 2017/12/25 PM 03:31:02:222
+   Step 5 ok! Spent Time: 2.918s
+   USB Task Finished! Spent Time: 7.488s
+   Device is Pullouted.
+
+< 17-12-25 15:31:24 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:31:33 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:31:46 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:31:58 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:32:11 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:32:45 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:32:54 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:34:37 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:34:44 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:34:56 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:36:46 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:40:04 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:42:14 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:42:31 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&17e8c39&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: F:\work\item\7595\v011\program\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2017/12/25 PM 03:42:36:937
+   Step 2 - End Time : 2017/12/25 PM 03:42:36:953
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2017/12/25 PM 03:42:36:953
+   Step 3 - End Time : 2017/12/25 PM 03:42:36:953
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2017/12/25 PM 03:42:36:953
+   Step 4 - End Time : 2017/12/25 PM 03:42:41:522
+   Step 4 ok! Spent Time: 4.570s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: F:\work\item\7595\v011\program\Tools/gpcv1248_spifc_pack_/cb_result.bin
+   Step 5 - Start Time : 2017/12/25 PM 03:42:41:522
+   Step 5 - End Time : 2017/12/25 PM 03:42:44:441
+   Step 5 ok! Spent Time: 2.918s
+   USB Task Finished! Spent Time: 7.504s
+   Device is Pullouted.
+
+< 17-12-25 15:42:53 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:43:03 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:47:08 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:48:48 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:48:59 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:49:08 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:49:18 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:52:30 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.
+
+< 17-12-25 15:53:09 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&166bd2d1&0#{53]
+   Device is Pullouted.

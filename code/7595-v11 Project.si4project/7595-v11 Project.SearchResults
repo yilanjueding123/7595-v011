@@ -1,0 +1,6 @@
+---- LED_USB_CONNECT Matches (5 in 4 files) ----
+application.h (F:\work\item\7595\v011\program\application\inc) line 663 : 	LED_USB_CONNECT,
+set_led_mode in ap_peripheral_handling.c (F:\work\item\7595\v011\program\application\task_peripheral_handling\src) : 		case LED_USB_CONNECT:
+set_led_mode in ap_peripheral_handling.c (F:\work\item\7595\v011\program\application\task_peripheral_handling\src) : 			DBG_PRINT("led_type = LED_USB_CONNECT\r\n");
+state_video_preview_entry in state_video_preview.c (F:\work\item\7595\v011\program\application\task_state_handling\state_video_preview\src) :         		//led_type = LED_USB_CONNECT;//LED_RECORD;
+state_video_record.c (F:\work\item\7595\v011\program\application\task_state_handling\state_video_record\src) line 459 : 				led_type =LED_USB_CONNECT;// LED_RECORD;
